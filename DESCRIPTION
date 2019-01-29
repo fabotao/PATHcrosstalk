@@ -1,0 +1,15 @@
+Package: PATHcrosstalk
+Type: Package
+Title: Pathway deregulation with crosstalk accomodated to identify pathway-level biomarkers of interest
+Version: 1.0
+Date: 2018-04-28
+Author: Botao Fa [aut], Zhangsheng Yu [aut]
+Maintainer: Botao Fa <faber@sjtu.edu.cn>
+Description: PATHcrosstalk is a tool set that addresses 
+		the effect of overlapping genes between pathways 
+		on the significance of the pathways in terms of
+		pathway deregulation scores for each tumor sample
+		on the basis of expression data.
+Imports: survival
+License: LGPL (>= 2)
+NeedsCompilation: no

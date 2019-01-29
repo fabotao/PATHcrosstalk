@@ -1,0 +1,7 @@
+robust_score_bydist. min_exp= 4 , min_std= 0.2254005 
+pathway  1 > sig: 0.07742935 
+pathway  1  k= 12 ( 12 ) wj= 4 >new sig: 0.06067119 | accepted!
+pathway  1  k= 11 ( 11 ) wj= 3 >new sig: 0.04519962 | accepted!
+pathway  2 > sig: 0.06000662 
+pathway  3 > sig: 0.086048 
+pathway  3  k= 7 ( 7 ) wj= 2 >new sig: 0.06088074 | accepted!

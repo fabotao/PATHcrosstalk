@@ -1,0 +1,4 @@
+importFrom("survival", coxph)
+importFrom("utils", combn)
+
+exportPattern("^[[:alpha:]]+")
